@@ -5,7 +5,10 @@
   "scripts": {
     "dev:dz01func": "nx serve dz-01-store-func",
     "dev:dz01class": "nx serve dz-01-store-class",
-    "dev:dz01calendar": "nx serve dz-01-calendar"
+    "dev:dz01calendar": "nx serve dz-01-calendar",
+    "dev:dz02filter": "nx serve dz-02-filter",
+    "dev:dz02layouts": "nx serve dz-02-layouts",
+    "dev:dz02dropdown": "nx serve dz-02-dropdown"
   },
   "private": true,
   "dependencies": {
