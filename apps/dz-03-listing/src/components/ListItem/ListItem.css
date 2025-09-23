@@ -1,0 +1,15 @@
+.item-image-placeholder {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    background-color: #f8f8f8;
+    border: 1px solid #e0e0e0;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-image-placeholder .material-symbols-outlined {
+    font-size: 96px;
+    color: #d1d1d1;
+}

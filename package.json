@@ -8,7 +8,10 @@
     "dev:dz01calendar": "nx serve dz-01-calendar",
     "dev:dz02filter": "nx serve dz-02-filter",
     "dev:dz02layouts": "nx serve dz-02-layouts",
-    "dev:dz02dropdown": "nx serve dz-02-dropdown"
+    "dev:dz02dropdown": "nx serve dz-02-dropdown",
+    "dev:dz03films": "nx serve dz-03-films",
+    "dev:dz03listing": "nx serve dz-03-listing",
+    "dev:dz03chat": "nx serve dz-03-chat"
   },
   "private": true,
   "dependencies": {

@@ -1,0 +1,24 @@
+.card-body-stars {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.card-body-stars li {
+    margin-right: 4px;
+}
+  
+.card-body-stars li:last-child {
+    margin-right: 0;
+}
+
+.u-clearfix::before,
+.u-clearfix::after {
+    content: "";
+    display: table;
+}
+
+.u-clearfix::after {
+    clear: both;
+}

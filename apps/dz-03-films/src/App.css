@@ -1,0 +1,14 @@
+#root {
+    max-width: 1420px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body,
+html {
+    margin: 0;
+    font-family: muli;
+    padding: 0;
+    background: white;
+    height: 100%;
+}

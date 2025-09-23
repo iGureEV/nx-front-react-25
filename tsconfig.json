@@ -8,6 +8,9 @@
     { "path": "./apps/dz-01-calendar" },
     { "path": "./apps/dz-02-filter" },
     { "path": "./apps/dz-02-layouts" },
-    { "path": "./apps/dz-02-dropdown" }
+    { "path": "./apps/dz-02-dropdown" },
+    { "path": "./apps/dz-03-films" },
+    { "path": "./apps/dz-03-listing" },
+    { "path": "./apps/dz-03-chat" }
   ]
 }

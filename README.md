@@ -17,4 +17,7 @@ npm run dev:dz01calendar
 npm run dev:dz02filter
 npm run dev:dz02layouts
 npm run dev:dz02dropdown
+npm run dev:dz03films
+npm run dev:dz03listing
+npm run dev:dz03chat
 ```
