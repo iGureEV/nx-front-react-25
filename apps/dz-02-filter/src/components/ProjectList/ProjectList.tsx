@@ -1,4 +1,5 @@
-import { TProjectList } from '../types';
+import { TProjectList } from '../../types';
+import './ProjectList.css';
 
 export default function ProjectList({ projects }: TProjectList) {
     return (

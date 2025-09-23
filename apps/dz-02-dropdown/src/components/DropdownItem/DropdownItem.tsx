@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { IDropdownItemProps } from '../interfaces';
+import { IDropdownItemProps } from '../../interfaces';
 
 export default function DropdownItem ({ item, onItemClick }: IDropdownItemProps) {
     const [isHovered, setIsHovered] = useState(false);

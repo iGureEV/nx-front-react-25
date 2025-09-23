@@ -1,0 +1,15 @@
+.project-list {
+    column-width: calc((1140px - 60px) / 3);
+    column-gap: 25px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.project-item {
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.project-item img {
+    width: 100%;
+}

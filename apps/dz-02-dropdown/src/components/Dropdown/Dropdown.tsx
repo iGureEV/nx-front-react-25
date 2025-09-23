@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { IDropdownProps, IMenuItem } from '../interfaces';
-import DropdownList from './DropdownList';
+import { IDropdownProps, IMenuItem } from '../../interfaces';
+import DropdownList from '../DropdownList/DropdownList';
 
 export default function Dropdown({ buttonText, items, onItemClick }: IDropdownProps) {
     const [isOpen, setIsOpen] = useState(false);

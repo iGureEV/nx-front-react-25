@@ -1,5 +1,5 @@
-import { IDropdownListProps } from '../interfaces';
-import DropdownItem from './DropdownItem';
+import { IDropdownListProps } from '../../interfaces';
+import DropdownItem from '../DropdownItem/DropdownItem';
 
 export default function DropdownList ({ items, isOpen, onItemClick }: IDropdownListProps) {
     if (!isOpen) {

@@ -1,7 +1,8 @@
 import { useState } from 'react';
-import { TPortfolio, TProject } from '../types';
-import Toolbar from './Toolbar';
-import ProjectList from './ProjectList';
+import { TPortfolio, TProject } from '../../types';
+import Toolbar from '../Toolbar/Toolbar';
+import ProjectList from '../ProjectList/ProjectList';
+import './Portfolio.css';
 
 export default function Portfolio ({ projects, filters }: TPortfolio) {
     const [activeFilter, setActiveFilter] = useState<string>('All');
