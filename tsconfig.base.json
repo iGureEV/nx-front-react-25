@@ -3,8 +3,8 @@
   "compilerOptions": {
     "rootDir": ".",
     "baseUrl": ".",
-    "composite": true,
-    "declaration": false,
+    "composite": false,
+    "declaration": true,
     "declarationMap": true,
     "removeComments": true,
     "emitDeclarationOnly": true,
@@ -31,7 +31,7 @@
     "allowSyntheticDefaultImports": true,
     "strictPropertyInitialization": false,
     "forceConsistentCasingInFileNames": true,
-    "customConditions": ["netology-nx-front-react-25-1"]
+    "customConditions": ["nx-front-react-25"]
   },
   "exclude": ["node_modules", "tmp"]
 }
